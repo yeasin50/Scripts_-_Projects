@@ -126,3 +126,14 @@ with open(file= "teacherS.csv", mode= 'w',encoding='cp850', errors='replace', ne
 
 for teacher in TeacherProfileLinks:
     getTeacherInfo(tlink= teacher)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
