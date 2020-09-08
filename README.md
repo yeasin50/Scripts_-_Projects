@@ -19,7 +19,6 @@
 
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
 
-
 [<img align="left" alt="uri" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/unicode.svg" />][uri]
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/hackerrank.svg" />][hackerRank]
@@ -29,7 +28,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 
