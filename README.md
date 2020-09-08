@@ -19,7 +19,7 @@
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
 
 
-[<img align="left" alt="uri" width="22px" src="https://drive.google.com/drive/u/0/folders/1RLwULliJYBcZsUj0cv5sbqZTQluR29Rk" />][uri]
+[<img align="left" alt="uri" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/unicode.svg" />][uri]
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/hackerrank.svg" />][hackerRank]
 
