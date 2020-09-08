@@ -1,6 +1,6 @@
 # readme Script for home Page
 
-### Hi there, I'm Md.Yeasin Sheikh 👋. You call me Yeasin. 
+### Hi there, I'm Md.Yeasin Sheikh 👋.
 
 ## I'm a Son, Programmer, and Student. 
 - 🌱 I'm currently learning everything 🤣
